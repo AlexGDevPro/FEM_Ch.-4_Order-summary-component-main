@@ -37,7 +37,7 @@ body{
     width: 100vw;
     font-size: 16px;
     font-family: 'Red Hat Display', sans-serif;
-    background: url('/images/pattern-background-mobile.svg') no-repeat center top;
+    background: url('./images/pattern-background-mobile.svg') no-repeat center top;
     background-size: contain;
     background-color: var(--pale-blue);
 }
@@ -134,7 +134,7 @@ body{
 @media screen and (min-width: 450px){
     /* Changing the background-image */
     body{
-        background: url('/images/pattern-background-desktop.svg') no-repeat center top;
+        background: url('./images/pattern-background-desktop.svg') no-repeat center top;
         background-size: contain;
         background-color: var(--pale-blue);
     }
