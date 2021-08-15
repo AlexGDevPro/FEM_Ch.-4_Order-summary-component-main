@@ -23,13 +23,16 @@ Users should be able to:
 
 ### Screenshot
 
+- Desktop view:
 ![Desktop-view](./screenshots/desktop-view.png)
+
+- Mobil view:
 ![Mobil-view](./screenshots/mobil-view.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://alexgdevpro.github.io/FEM_Ch.-4_Order-summary-component-main/](https://alexgdevpro.github.io/FEM_Ch.-4_Order-summary-component-main/)
 
 ## My process
 
